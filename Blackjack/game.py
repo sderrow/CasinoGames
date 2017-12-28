@@ -1,4 +1,4 @@
-from cards import *
+from Blackjack.cards import *
 
 
 def blackjack(players=1, num_decks=6, sim=False, num_sims=100):

@@ -1,4 +1,4 @@
-from cards import *
+from Blackjack.cards import *
 from random import randint
 
 
